@@ -1,0 +1,46 @@
+.item {
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  margin-bottom: 1.3rem;
+  padding: 1.3rem;
+}
+.item--inline-block {
+  display: inline-block;
+}
+
+.item__message {
+  font-size: 1.3rem;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+}
+.item__message--empty {
+  color: #999999;
+}
+.item--position-1 { background: $green; color: black; border-color: $green-alt }
+.item--position-2 { background: $red; color: black; border-color: $red-alt }
+.item--position-3 { background: $yellow; color: black; border-color: $yellow-alt }
+
+// .item__player-name {
+//   display: inline-block;
+//   text-align: right;
+// }
+//
+// .item__player-name--inline-block {
+//   display: inline-block;
+// }
+// .item__group-buttons--float-right {
+//   float: right;
+// }
+//
+// .item__group-buttons {
+//   display: inline-block;
+//   // text-align: right;
+//   float: right;
+// }
+// .item__group-buttons--inline-block {
+//   display: inline-block;
+// }
+// .item__group-buttons--float-right {
+//   float: right;
+// }

@@ -1,0 +1,24 @@
+// Variables
+$color-default: #555555;
+$font-family-default: Helvetica, Arial, sans-serif;
+$title-bar-color: #e35557;
+$bg-color-default: white;
+$bg-color-light-grey: #f2f2f2;
+
+$green: #e4ede0;
+$red: #eddfdf; // #FF9999;
+$yellow: #FFFF88;
+$blue: #dfe7ed;
+
+$green-alt: darken($green,15%);
+$red-alt: darken($red,15%);
+$yellow-alt: darken($yellow,15%);
+$blue-alt: darken($blue,15%);
+
+$light-green: lighten($green,20%);
+$light-red: lighten($red,20%);
+$light-yellow: lighten($yellow,20%);
+
+$dark-green: darken($green,20%);
+$dark-red: darken($red,20%);
+$dark-yellow: darken($yellow,20%);
